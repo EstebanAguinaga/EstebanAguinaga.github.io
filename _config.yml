@@ -2,10 +2,10 @@
 <html>
 
 <head>
-<title>Tron Legacy</title>
-	<meta name="author" content="Esteban Aguinaga">
-	<meta charset="utf-8">
-	<meta name="viewport" content="user-scalable=no, width=device-width">
+<title>Cyberpunk Genre</title>
+<meta name="author" content="Esteban Aguinaga">
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable=no, width=device-width">
     
 <!-- "https://img3.goodfon.com/wallpaper/nbig/7/b0/tron-tron-nasledie-gorod.jpg" is the image used for the original background, in case you use it for an image later if you coninue with the first movie idea 
 
@@ -41,7 +41,7 @@ style="padding-top: 3000px; margin-top: -3000px; padding-left: 3000px; margin-le
 <link href='https://fonts.googleapis.com/css?family=Barlow|Tomorrow' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Varela' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
-	<style>
+<style>
 
 .glitch{
     font-family: "Varela", sans-serif;
@@ -392,7 +392,7 @@ li{
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
-    </style>
+</style>
 </head>
 
 <body>
@@ -440,32 +440,28 @@ li{
     </div>
 </section>
 <div>
-		<section class="movies">
-		  <h1 class="title1" id="movies">MOVIES_</h1>
-		  <p>Cyberpunk-style movies were first introduced with the film "Blade Runner" in 1988.</p>
-		  <p>Try to make your own Title to grab the readers into your article</p>
-		  <p>Don't forget to change the title inside the HEAD and take out any code with my name Mrs. Bell inside, make it your own.</p>
-			<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" alt="Lighthouse image" style="float: left"></p>
-		  <p>the picture above <strong>should be your own and does not have to follow copyright laws. </strong>.</p>
-		  <p>Tell about IRMA in your own words you may change the header picture if you like, you must change the other photo.</p>
-		  <p>You are using your web design skills that you know to show me .</p>
-        </section>
-        <section>
-		  <p>You'll also learn basic things like:<br>
-				how to use a simple text editor<br>
-				how to copy and paste<br>
-				how to create folders<br>
-				how to store files and images that make up your website<br>
-				how to preview web pages with a browser.</p>
-			<p>You will learn how to create a website <strong>The Right Way, The First time!</strong> There are a lot of tutorials on the internet that teach you how to build websites. Use them and you'll most likely be rebuilding your website to keep up with the times.</p>
-		  <p>Use this template, you'll get started right and you'll be ready to progress to some more advanced teaching aids.</p>
-		</section>
-	</div>
+    <section class="movies">
+		<h1 class="title1" id="movies">MOVIES_</h1>
+		<p>Cyberpunk-style movies were first introduced with the film "Blade Runner" in 1988.</p>
+		<p>Try to make your own Title to grab the readers into your article</p>
+		<p>Don't forget to change the title inside the HEAD and take out any code with my name Mrs. Bell inside, make it your own.</p>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" alt="Lighthouse image" style="float: left">
+		<p>the picture above <strong>should be your own and does not have to follow copyright laws. </strong>.</p>
+		<p>Tell about IRMA in your own words you may change the header picture if you like, you must change the other photo.</p>
+		<p>You are using your web design skills that you know to show me .</p>
+    </section>
+    <section>
+		<p>You'll also learn basic things like:<br>
+how to use a simple text editor<br>how to copy and paste<br>how to create folders<br>how to store files and images that make up your website<br>how to preview web pages with a browser.</p>
+		<p>You will learn how to create a website <strong>The Right Way, The First time!</strong> There are a lot of tutorials on the internet that teach you how to build websites. Use them and you'll most likely be rebuilding your website to keep up with the times.</p>
+		<p>Use this template, you'll get started right and you'll be ready to progress to some more advanced teaching aids.</p>
+	</section>
+</div>
 	
-	<footer>
-		<address>
-		&copy; Copyright 2018 All Rights Reserved<a href="mailto:b@gmail.com"> Mrs .Bell </a>
-		</address>
-	</footer>
+<footer>
+	<address>
+	&copy; Copyright 2018 All Rights Reserved<a href="mailto:b@gmail.com"> Mrs .Bell </a>
+	</address>
+</footer>
 </body>
 </html>
